@@ -11,7 +11,7 @@
     "@iconify/json": "^2.2.36",
     "@nuxtjs/tailwindcss": "^6.6.6",
     "autoprefixer": "^10.4.13",
-    "nuxt": "^3.4.2",
+    "nuxt": "^3.4.3",
     "postcss": "^8.4.21",
     "unplugin-icons": "^0.15.3",
     "unplugin-vue-components": "^0.24.1"
